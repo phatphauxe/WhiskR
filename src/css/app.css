@@ -1,0 +1,155 @@
+body, html {
+    padding: 0px;
+    margin: 0px;
+}
+.topbar {
+
+    width: 100vw;
+    background-color: black;
+}
+
+.topbar-content-wrapper {
+    width: 550px;
+    margin: auto;
+    position: relative;
+    display: block;
+    background: lightgrey; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient( white, lightgrey); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient( white, lightgrey); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient( white, lightgrey); /* For Firefox 3.6 to 15 */
+    background: linear-gradient( white, lightgrey); /* Standard syntax */
+}
+
+.fa.fontAlign, .fontAlign{
+    display: inline;
+    font-size: 20px;
+    line-height: 25px;
+    color:#666;
+    width: 25px;
+    height: 23px;
+    text-align: center;
+    vertical-align: bottom;
+    transition: all 500ms;
+}
+
+.social_bar {
+    width: 100vw;
+    height: 25px;
+    background-color: #CCCCFF;
+    display: inline-block;
+}
+
+.fontAlign:hover{
+  color: #000;
+}
+
+a {
+  text-decoration: none;
+}
+
+.social_icon {
+  display: inline;
+  padding: 5px;
+}
+
+.social_icon_list {
+  float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.a-format:before {
+    content: 'A';
+}
+.b-format:before {
+    content: 'B';
+}
+.c-format:before {
+    content: 'C';
+}
+.d-format:before {
+    content: 'D';
+}
+.e-format:before {
+    content: 'E';
+}
+.f-format:before {
+    content: 'F';
+}
+.g-format:before {
+    content: 'G';
+}
+.h-format:before {
+    content: 'H';
+}
+.i-format:before {
+    content: 'I';
+}
+.j-format:before {
+    content: 'J';
+}
+.k-format:before {
+    content: 'K';
+}
+.l-format:before {
+    content: 'L';
+}
+.m-format:before {
+    content: 'M';
+}
+.n-format:before {
+    content: 'N';
+}
+.o-format:before {
+    content: 'O';
+}
+.p-format:before {
+    content: 'P';
+}
+.q-format:before {
+    content: 'Q';
+}
+.r-format:before {
+    content: 'R';
+}
+.s-format:before {
+    content: 'S';
+}
+.t-format:before {
+    content: 'T';
+}
+.u-format:before {
+    content: 'U';
+}
+.v-format:before {
+    content: 'V';
+}
+.w-format:before {
+    content: 'W';
+}
+.x-format:before {
+    content: 'X';
+}
+.y-format:before {
+    content: 'Y';
+}
+.z-format:before {
+    content: 'Z';
+}
